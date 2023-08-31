@@ -1,2 +1,2 @@
 # Introduction
-Using big data technology like Hadoop and DASK, in addition to using NLP to clean tweets data.
+Using NLP to clean out tweets dataset, and using big data technology such as MongoDB, Hadoop, and DASK to process it.
